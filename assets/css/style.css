@@ -708,3 +708,9 @@ img{
     width: 232px;
     justify-self: center;
 }
+
+/*==============*****************Testimonials********************===============**/
+.testimonal__data,
+.testimonial__header{
+    display: flex;
+}
